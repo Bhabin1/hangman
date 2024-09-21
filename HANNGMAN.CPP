@@ -45,14 +45,14 @@ void drawHangman(int lives) {
         cout << " +---+ \n";
         cout << " |   | \n";
         cout << " |   O \n";
-        cout << " |  /|\ \n";
+        cout << " |  /|\\ \n";
         cout << " |   | \n";
         cout << " |    \\ \n";
     } else if (lives == 0) {
         cout << " +---+ \n";
         cout << " |   | \n";
         cout << " |   O \n";
-        cout << " |  /|\    \n";
+        cout << " |  /|\\    \n";
         cout << " |   |     \n";
         cout << " |  / \\ \n";
     }
